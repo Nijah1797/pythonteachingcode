@@ -5,3 +5,5 @@ print(f"Hello {user_name}, you wake up with a letter from the princess kingdom a
 
 user_choice = input("Do you choose to accept it?").lower()
 print(user_choice)
+
+print("Great! Now it's time to save the princess")
