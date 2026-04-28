@@ -21,7 +21,7 @@ This project involves creating a text-based adventure game using Python. The gam
 ## 🚀 Roadmap (Next 2 Weeks)
 
 ### Research & Planning
-- [ ] Find a Python text adventure game repository on GitHub and evaluate it  
+- [Done] Find a Python text adventure game repository on GitHub and evaluate it  
   **Assigned to:** Nijah  
 
 - [ ] Analyze how the game handles user input and story branching  
@@ -37,7 +37,7 @@ This project involves creating a text-based adventure game using Python. The gam
 - [ ] Implement user input system using `input()`  
   **Assigned to:** Nijah  
 
-- [ ] Build at least 3 different story paths with choices  
+- [ ] Build at least 2 different story paths with choices  
   **Assigned to:** Nijah  
 
 ### Testing & Debugging
