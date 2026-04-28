@@ -24,7 +24,7 @@ This project involves creating a text-based adventure game using Python. The gam
 - [Done] Find a Python text adventure game repository on GitHub and evaluate it  
   **Assigned to:** Nijah  
 
-- [Done] Analyze how the game handles user input and story branching  
+- [ ] Analyze how the game handles user input and story branching  
   **Assigned to:** Nijah  
 
 - [ ] Decide on game theme (e.g., horror, mystery, survival)  
